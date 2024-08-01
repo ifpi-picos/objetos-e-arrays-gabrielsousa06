@@ -1,10 +1,10 @@
-import { adicionaItens } from "./ListaCompras1"; 
-import { removeItens } from "./ListaCompras1";
-import { pesquisaItens } from "./ListaCompras1";
-import { ordenaItens } from "./ListaCompras1";
-import { exibeItens } from "./ListaCompras1";
-import { limpaItens } from "./ListaCompras1";
-import { encerra } from "./ListaCompras1";
+import { adicionaItens } from "./ProjCompras"; 
+import { removeItens } from "./ProjCompras";
+import { pesquisaItens } from "./ProjCompras";
+import { ordenaItens } from "./ProjCompras";
+import { exibeItens } from "./ProjCompras";
+import { limpaItens } from "./ProjCompras";
+import { encerra } from "./ProjCompras";
 
 let suaLista = []
 let cont = 0
